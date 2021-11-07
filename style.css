@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+  }
+  
+  main {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  form {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  input[type='text'] {
+    width: 80%;
+    margin-right: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 20%;
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #target {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  article {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    width: 45%;
+  }
+  
+  figure {
+    text-align: center;
+  }
+  
+  figure img {
+    width: 50%;
+    margin-bottom: 5px;
+  }
+  
+  #name {
+    text-align: center;
+  }
+  
